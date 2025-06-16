@@ -7,8 +7,28 @@ With SeekThis, you can:
 ✅ Protect data privacy quickly and easily
 ✅ Decrypt files only if you have the correct key
 ✅ Free and open-source!
+
 ![skema](https://github.com/user-attachments/assets/2773c5b5-233e-4f85-a3e6-7d2510dfd4ac)
+
 
 📁 Encryption & Decryption made more convenient, secure, and personal.
 Try it now and keep your secret files safe 💼
 
+how to install?.
+git clone https://github.com/NASAPROGRAMMER/seekthis
+cd seekthis
+chmod +x seekthis
+./seekthis
+
+----------------------------------------------------------------------------------------
+how to use?.
+select file you want to hide
+input the key that u must remember
+click encrypt and then the folder will locked until you decrypt
+
+to use decrypt is also same
+select file you want to decrypt
+input the key that u put before
+click decrypt and then the folder will be unlocked.
+
+_-
