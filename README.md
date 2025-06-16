@@ -14,20 +14,22 @@ With SeekThis, you can:
 📁 Encryption & Decryption made more convenient, secure, and personal.
 Try it now and keep your secret files safe 💼
 
+
 how to install?.
+```bash
 git clone https://github.com/NASAPROGRAMMER/seekthis
 cd seekthis
 chmod +x seekthis
 ./seekthis
 
 ----------------------------------------------------------------------------------------
-'''bash
+
 how to use?.
 select file you want to hide
 input the key that u must remember
 click encrypt and then the folder will locked until you decrypt
 
-'''bash
+
 to use decrypt is also same
 select file you want to decrypt
 input the key that u put before
