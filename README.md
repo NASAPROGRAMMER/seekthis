@@ -21,14 +21,16 @@ chmod +x seekthis
 ./seekthis
 
 ----------------------------------------------------------------------------------------
+'''bash
 how to use?.
 select file you want to hide
 input the key that u must remember
 click encrypt and then the folder will locked until you decrypt
 
+'''bash
 to use decrypt is also same
 select file you want to decrypt
 input the key that u put before
 click decrypt and then the folder will be unlocked.
 
-_-
+
