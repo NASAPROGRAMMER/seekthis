@@ -14,6 +14,8 @@ With SeekThis, you can:
 📁 Encryption & Decryption made more convenient, secure, and personal.
 Try it now and keep your secret files safe 💼
 
+download from sourceforge
+https://sourceforge.net/projects/compare-face-recognition/
 
 how to install?.
 ```bash
